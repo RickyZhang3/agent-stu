@@ -1,0 +1,10 @@
+[project]
+name = "ai-agent-stu"  # 你的项目名，如 PyCharm 自动识别的
+version = "0.0.1"
+dependencies = [
+    # 可直接用 pip install . 安装依赖
+    # "requests>=2.31.0",
+    # "pandas>=2.0.0"
+    "langchain-ollama>=1.0.1",
+]
+requires-python = ">=3.12"
